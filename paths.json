@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-forms-eds-ue:/",
+    "/content/aem-forms-eds-ue/:/",
     "/content/aem-forms-eds-ue/configuration:/.helix/config.json"
   ],
   "includes": [
