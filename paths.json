@@ -1,6 +1,7 @@
 {
   "mappings": [
 <<<<<<< HEAD
+<<<<<<< HEAD
     "/content/aem-boilerplate/:/",
     "/content/aem-boilerplate/configuration:/.helix/config.json",
     "/content/aem-boilerplate/metadata:/metadata.json"
@@ -9,6 +10,10 @@
     "/content/aem-boilerplate/"
 =======
     "/:/"
+=======
+    "/content/aem-forms-eds-ue:/",
+    "/content/aem-forms-eds-ue/configuration:/.helix/config.json"
+>>>>>>> 25b5ec6 (added a fstab and updated the paths.json)
   ],
   "includes": [
     "/content/",

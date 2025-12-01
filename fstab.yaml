@@ -1,5 +1,11 @@
 mountpoints:
   /:
+<<<<<<< HEAD
     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
+=======
+      url: "https://author-p138853-e1404402.adobeaemcloud.com/bin/franklin.delivery/rajakumaradbe/aem-forms-eds-ue/main"
+      type: "markup"
+      suffix: ".html"
+>>>>>>> 25b5ec6 (added a fstab and updated the paths.json)
