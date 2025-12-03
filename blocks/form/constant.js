@@ -3,6 +3,9 @@ export const dragDropText = 'Drag and Drop To Upload';
 
 export const DEFAULT_THANK_YOU_MESSAGE = 'Thank you for your submission.';
 
+// Production Environment
+export const submitBaseUrl = 'https://publish-p138853-e1404402.adobeaemcloud.com';
+
 // Logging Configuration
 // To set log level, modify this constant:
 export const LOG_LEVEL = 'error'; // Available options: 'off', 'debug', 'info', 'warn', 'error'
